@@ -813,21 +813,26 @@ a.hire-btn:hover{
 /* 5.1 - Parallax Backgrounds
 ------------------------------------------------------------------------*/
 #status{
-    background-image: url('http://placehold.it/1920x1024');
+    /*background-image: url('http://placehold.it/1920x1024');*/
+    background-color: #343434;
 }
 #wprocess{
-    background-image: url('http://placehold.it/1920x1024');
+    /*background-image: url('http://placehold.it/1920x1024');*/
+    background-color: #343434;
 }
 #hire{
-    background-image: url('http://placehold.it/1920x1024');
+    /*background-image: url('http://placehold.it/1920x1024');*/
+    background-color: #343434;
 }
 #qoutes{
-    background-image: url('http://placehold.it/1920x1024');
+    /*background-image: url('http://placehold.it/1920x1024');*/
+    background-color: #343434;
 }
 /* 6 - Home
 ------------------------------------------------------------------------*/
 #home{
-    background: url('http://placehold.it/1920x1024');
+    /*background: url('http://placehold.it/1920x1024');*/
+    background-color: #535968;
     background-attachment: fixed !important;
     background-position: center center;
     background-repeat: no-repeat;
