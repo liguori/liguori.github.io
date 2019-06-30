@@ -2252,6 +2252,17 @@ a.hire-btn:hover{
 }
 
 .msft{
-    font-family: 'Segoe UI,"Raleway",Helvetica,Arial,sans-serif';
-    font-weight: normal;
+    height: 25px;
+}
+
+.certification{
+    text-align: center;
+}
+
+.badge-cert-shield{
+    height: 170px;
+}
+
+.badge-cert-slug{
+    height: 140px;
 }
